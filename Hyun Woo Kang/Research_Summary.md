@@ -13,8 +13,9 @@
 
 목표
 ----
-SBC 업그레이드는 위 주제와 동일함.<br>
-ROS Management System은 기본적으로 서버 관리 / 로깅을 진행할 수 있고, ROS Master Host에 연결되어 있는 Slave 노드의 정보를 읽을 수 있게 만든다. 이에 대한 목표는 SBC의 CPU 및 GPU Load정보를 모니터링 하는 것 까지가 목표였으나, 특정 사유로 인해 이는 동시에 진행하지 못하고 Slave노드의 일부 정보만 받는 상태에서 멈추게 되었다.<br>
+<b>SBC 업그레이드는 위 주제와 동일함.</b><br><br>
+ROS Management System은 기본적으로 서버 관리 / 로깅을 진행할 수 있고, ROS Master Host에 연결되어 있는 Slave 노드의 정보를 읽을 수 있게 만든다. 이에 대한 목표는 SBC의 CPU 및 GPU Load정보를 모니터링 하는 것 까지가 목표였으나, 특정 사유로 인해 이는 동시에 진행하지 못하고 Slave노드의 일부 정보만 받는 상태에서 멈추게 되었다.<br><br>
+아래 링크는 현재까지 동계방학 때 개발한(Deprecated) ROS Manager Github 링크입니다.<br>
 [Link to Custom-Dev ROS Manager](https://github.com/KangDroid/ROS_Manager) (Based on C/C++ With QT5)
 
 성과
