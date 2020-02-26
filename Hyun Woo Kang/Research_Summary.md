@@ -20,7 +20,7 @@ ROS Management System은 기본적으로 서버 관리 / 로깅을 진행할 수
 
 성과
 ----
-<b>결론: N/A</b> <br><br>
+<b>결론: N/A</b> <br>
 
 - ROS2 내부 버전 간의 호환성 이슈<br>
   ROS2는 Master Host와 Slave 서로 버전이 다를 경우 데이터 송/수신에 문제가 생깁니다. 따라서 모두 최신 버전은 ROS2 Master(devel) 브렌치를 사용하지만, arm64에 대한 컴파일 지원이 없었고, 이에 대한 Documentation또한 없었기 때문에 이를 해결하느라 시간이 생각보다 많이 걸렸습니다.
