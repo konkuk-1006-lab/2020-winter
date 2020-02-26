@@ -19,6 +19,6 @@ ROS Management System은 기본적으로 서버 관리 / 로깅을 진행할 수
 
 성과
 ----
-결론: N/A <br>
+<b>결론: N/A</b> <br>
 ROS2의 불안정성 및 내부 Platform API 미정립(Cannot Migrate ROS1 Driver to ROS2.)<br>
 Jetson Nano의 CSI-Cam: Lock/Pipe 문제?(자세한 것은 PPT참조 부탁드립니다.)
