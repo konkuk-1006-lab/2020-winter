@@ -8,17 +8,17 @@ Result of researches done in 2019-2020 winter, Konkuk University.
 
 ## 최종 연구 결과
 
-- 산업용 카메라 오토포커싱 기술 개발
+- [산업용 카메라 오토포커싱 기술 개발](김지형/)
   - 김지형(kimjihyeong100@konkuk.ac.kr, kjhricky@gmail.com)
-- Turtlebot3 Waffle Pi와 Open Manipulator를 이용한 건물 안내로봇
+- [Turtlebot3 Waffle Pi와 Open Manipulator를 이용한 건물 안내로봇](강민지-권미경/)
   - 강민지(wbclair7@konkuk.ac.kr)
   - 권미경(kmk3942@konkuk.ac.kr)
-- AI를 이용한 차선 및 표지판 인식
+- [AI를 이용한 차선 및 표지판 인식](김미선-손희원/)
   - 김미선(altjs4510@konkuk.ac.kr)
   - 손희원(dnjs99@konkuk.ac.kr)
-- TB3 Burger에 대해 SBC 업그레이드(Raspberry Pi 3B+ -> NVidia Jetson Nano)
+- [TB3 Burger에 대해 SBC 업그레이드(Raspberry Pi 3B+ -> NVidia Jetson Nano)](Hyun%20Woo%20Kang/)
   - 강현우(kangdroid@konkuk.ac.kr)
-- Slam, Navigation을 통한 터틀봇 주행, OpenCV를 통한 영상 처리
+- [Slam, Navigation을 통한 터틀봇 주행, OpenCV를 통한 영상 처리](최인규/)
   - 최인규(psh42458023@gmail.com)
-- OpenCV를 활용한 새천년관 출입대장 제작
+- [OpenCV를 활용한 새천년관 출입대장 제작](안진혁/)
   - 안진혁
